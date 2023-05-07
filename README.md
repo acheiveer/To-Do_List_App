@@ -2,8 +2,8 @@
 A simple To-Do List App built with HTML, CSS and JavaScript. This app allows you to add and manage your daily tasks. You can mark a task as completed or incomplete, and you can also delete a task from the list. The app uses Local Storage to store your task list, so you can access your saved To-Do list even if you close and restart your browser.
 
 
-## You can try the live demo of the To-Do List App here.
-  https://acheiveer.github.io/ToDo-List-App/
+## You can try the live demo of the To-Do List App [here]( https://acheiveer.github.io/ToDo-List-App/).
+
   
 
 ## Features
